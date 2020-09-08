@@ -1,0 +1,41 @@
+name: survival
+main: ru.korwillion.main.survival
+version: 1.0
+description: For survival GC.
+author: Korwillion
+commands:
+  menu:
+    description: Open a menu
+    usage: /<command>
+  spawn:
+    description: Teleport to spawn
+    aliases: [спавн]
+    usage: /<command>
+  setspawn:
+    description: Set spawm
+    usage: /<command>
+  sethome:
+     description: Set home
+     usage: /<command>
+  home:
+    description: tp home
+    usage: /<command>
+  hologram:
+    description: Open a gui
+    usage: /<command>
+  rtp:
+    description: Open a gui
+    usage: /<command>
+  warps:
+    description: Open a warps
+    usage: /<command>
+  tell:
+    description: personal messages
+    aliases: msg
+    usage: /<command>
+  r:
+    description: reply
+    usage: /<command>
+  gui:
+    description: test
+    usage: /<command>
